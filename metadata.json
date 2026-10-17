@@ -1,0 +1,6 @@
+{
+  "name": "AdForge AI - Professional Banner Ad Studio",
+  "description": "Generate high-converting studio-quality banner ads in all standard IAB formats from any product description and URL with Gemini 3 Pro and Nano Banana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
